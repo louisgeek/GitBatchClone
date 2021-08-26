@@ -1,0 +1,2 @@
+https://github.com/louisgeek/LG_DrawPad.git
+https://github.com/louisgeek/LG_VideoChat.git
